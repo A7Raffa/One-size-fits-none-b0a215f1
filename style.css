@@ -1,0 +1,30 @@
+    h1 {
+  color: red;
+  left: 20px;
+}
+
+     h2 {
+  color: green;
+  left: 20px;
+}
+
+ul {
+	color: orange;
+	left: 20px;
+}
+
+ol {
+	color: red;
+	left: 20px;
+}
+
+body {
+  background-color: grey;
+}
+
+img { 
+  width: 500px;
+  background-color: ;
+  color: white;
+  border: 10px solid black;
+}
